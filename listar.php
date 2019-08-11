@@ -7,6 +7,7 @@
 ?>
 
 <!DOCTYPE html>
+<h1>hola este es uun titulo</h1>
 <html>
 <head>
 	<title></title>
@@ -22,7 +23,7 @@
 	<!--JavaScript at end of body for optimized loading-->
       <script type="text/javascript" src="js/materialize.min.js"></script>
 
-	<table>
+	<table>    
         <thead>
           <tr>
               <th>Name</th>
